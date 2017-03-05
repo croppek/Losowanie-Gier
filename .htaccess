@@ -1,0 +1,45 @@
+<IfModule mod_security2.c>
+SecRuleRemoveById 981249
+SecRuleRemoveById 950109
+SecRuleRemoveById 950120
+SecRuleRemoveById 950901
+SecRuleRemoveById 950119
+SecRuleRemoveById 958291
+SecRuleRemoveById 973338
+SecRuleRemoveById 981318
+SecRuleRemoveById 981319
+SecRuleRemoveById 950109
+SecRuleRemoveById 950120
+SecRuleRemoveById 950901
+SecRuleRemoveById 950119
+SecRuleRemoveById 958291
+SecRuleRemoveById 960006
+SecRuleRemoveById 960024
+SecRuleRemoveById 960032
+SecRuleRemoveById 960010
+SecRuleRemoveById 960034
+SecRuleRemoveById 960035
+SecRuleRemoveById 960038
+SecRuleRemoveById 981260
+SecRuleRemoveById 981036
+SecRuleRemoveById 981243
+SecRuleRemoveById 981244
+SecRuleRemoveById 981246
+SecRuleRemoveById 981247
+SecRuleRemoveById 981257
+SecRuleRemoveById 981260
+SecRuleRemoveById 981318
+SecRuleRemoveById 981319
+SecRuleRemoveById 981240
+SecRuleRemoveById 950006
+SecRuleRemoveById 958291
+</IfModule>
+
+### PROTECT FILES ###
+<FilesMatch "\.(htaccess|htpasswd|ini|fla|psd|log|sh)$">
+Order Allow,Deny
+Deny from all
+</FilesMatch>
+
+RewriteEngine on
+RewriteRule faq faq.html
