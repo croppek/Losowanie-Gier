@@ -21,6 +21,8 @@ Strona niemalże w całości oparta jest o asynchroniczne ładowanie treści, dz
 
 ##Kody referencyjne
 
+Istnieje możliwość dodania nieograniczonej ilości kodów referencyjnych, dzięki którym możemy przekazać dowolne nagrody użytkownikom.
+
 ![alt text](http://i.imgur.com/o14VrVe.gif "Kody referencyjne")
 
 ##Metody dodawania środków
@@ -34,6 +36,14 @@ Działające płatności z wykorzystaniem systemów przelewy24.pl oraz microsms.
 Posiadane w ekwipunku gry można odsprzedać za połowę ich wartości lub odebrać wygraną w postaci klucza do gry. 
 
 ![alt text](http://i.imgur.com/s9v6Xs8.gif "Zarządzanie ekwipunkiem")
+
+##Sklep i losowanie gier
+
+Do sklepu można dodać nieograniczoną liczbę "skrzyń"/pakietów z dowolnymi kombinacjami gier do wylosowania. 
+
+![alt text](http://i.imgur.com/m4Dgkm0.gif "Sklep")
+
+![alt text](http://i.imgur.com/cxFDp0A.gif "Losowanie")
 
 ---
 
