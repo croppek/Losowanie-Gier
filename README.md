@@ -1,5 +1,5 @@
-Jest to mój największy projekt 2016 roku. Strona z dużym potencjałem na rozwój i dodawanie nowych funkcji.
-Aktualnie nie jest w użytku, stworzona na potrzeby portfolio i własnego rozwoju.
+Jest to mój największy projekt 2016 roku. Strona z dużym potencjałem na dodawanie nowych funkcji.
+*Aktualnie nie jest w użytku, stworzona na potrzeby portfolio i własnego rozwoju.*
 
 ![alt text](http://i.imgur.com/MDoHyxm.gif "Strona główna")
 
