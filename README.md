@@ -27,7 +27,7 @@ Istnieje możliwość dodania nieograniczonej ilości kodów referencyjnych, dzi
 
 ##Metody dodawania środków
 
-Działające płatności z wykorzystaniem systemów przelewy24.pl oraz microsms.pl (SMS, Przelew bankowy, PaySafeCard). 
+Działające płatności z wykorzystaniem systemów *przelewy24.pl* oraz *microsms.pl* (SMS, Przelew bankowy, PaySafeCard). 
 
 ![alt text](http://i.imgur.com/ZXZkpxC.gif "Kody referencyjne")
 
@@ -44,6 +44,24 @@ Do sklepu można dodać nieograniczoną liczbę "skrzyń"/pakietów z dowolnymi 
 ![alt text](http://i.imgur.com/m4Dgkm0.gif "Sklep")
 
 ![alt text](http://i.imgur.com/cxFDp0A.gif "Losowanie")
+
+##Chatbox
+
+Strona posiada również prosty chatbox działający w czasie rzeczywistym, który umożliwia użytkownikom komunikowanie się. Administratorzy są odpowiednio wyróżnieni innym kolorem, mają oni również możliwość zablokowania poszczególnych użytkowników na czacie. 
+
+![alt text](http://i.imgur.com/JJ1Zijt.gif "Chatbox")
+
+##Panel adminisratora
+
+![alt text](http://i.imgur.com/U07iy8R.gif "Panel admina")
+
+Z poziomu panelu administratora mamy dostęp do: 
+* sprawdzenia liczby aktualnie zalogowanych użytkowników
+* dodania nowego postu w aktualnościach
+* dodania nowej skrzyni z dowolną zawartością i procentowo ustalonymi szansami na wylosowanie (+ podgląd generowaniej skrzyni)
+* dodania nowej gry do bazy danych
+
+![alt text](http://i.imgur.com/rvh2Y7O.gif "Dodawanie nowej skrzyni")
 
 ---
 
