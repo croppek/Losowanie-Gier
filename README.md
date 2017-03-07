@@ -39,7 +39,8 @@ Posiadane w ekwipunku gry można odsprzedać za połowę ich wartości lub odebr
 
 ##Sklep i losowanie gier
 
-Do sklepu można dodać nieograniczoną liczbę "skrzyń"/pakietów z dowolnymi kombinacjami gier do wylosowania. 
+Do sklepu można dodać nieograniczoną liczbę "skrzyń" / pakietów z dowolnymi kombinacjami gier do wylosowania. 
+Losowane gry wybierane są na podzstawie procentowych szans ustalonych przy dodawaniu nowej skrzyni. Animacja otwierania skrzyni również jest losowa, wskaźnik nigdy nie zatrzymuje się w tym samym miejscu.
 
 ![alt text](http://i.imgur.com/m4Dgkm0.gif "Sklep")
 
@@ -63,17 +64,29 @@ Z poziomu panelu administratora mamy dostęp do:
 
 ![alt text](http://i.imgur.com/rvh2Y7O.gif "Dodawanie nowej skrzyni")
 
+##Strona z FAQ
+
+![alt text](http://i.imgur.com/7Y1dFID.gif "FAQ")
+
 ---
 
 ###Przykłady zaimplementowanych funkcji: 
-* Graficzny instalator systemu
-* Sprawdzanie aktualizacji systemu
-* Panel administratora (zmiana loga i nazwy strony, zarządzanie użytkownikami, generowanie masowo linków [QR])
-* Ułatwiony proces dodawania nowych użytkowników (automatyczne generowanie loginów i haseł)
-* Ustawienia konta (zmiana hasła)
-* Wyszukiwanie przedmiotów według numeru ID, kategorii, nazwy lub lokalizacji
-* Szybka edycja informacji o przedmiocie
-* Dwa języki strony (PL / EN)
+* Formularze rejestracji i logowania + potwierdzenia email
+* Odzyskiwanie hasła
+* Asynchroniczne ładowanie treści na stronie
+* Aktualności (dodawanie i usuwanie z poziomu strony)
+* Sklep (dodawanie i usuwanie skrzyń z poziomu strony)
+* Starannie utworzona metoda losowości wybierania gier (na podstawie określonych % szans) i przebiegu animacji otwierania skrzyń
+* Witrualny portfel + różne metody płatności (SMS, Przelew, PSC)
+* System kodów referencyjnych
+* Ekwipunek i zarządzanie nim (odsprzedaż gier / odbieranie kodów)
+* Formularz kontaktowy
+* Czat w czasie rzeczywistym
+* Panel administratora (licznik zalogowanych użytkowników, dodawanie aktualności, skrzyń do sklepu, gier do bazy danych)
+* Strona FAQ
+* Automatyczne wylogowanie użytkownika po określonym czasie braku aktywności na stronie (w celu zachowania bezpieczeństwa)
+
+![alt text](http://i.imgur.com/atYM0gD.gif "Automatyczne wylogowanie")
 
 ---
 
@@ -85,3 +98,7 @@ Z poziomu panelu administratora mamy dostęp do:
 * PHP
 * MySQL
 * velocity.js
+
+---
+
+![alt text](http://i.imgur.com/iJd2pDZ.gif "Wylogowanie")
