@@ -52,14 +52,14 @@ Strona posiada również prosty chatbox działający w czasie rzeczywistym, któ
 
 ![alt text](http://i.imgur.com/JJ1Zijt.gif "Chatbox")
 
-## Panel adminisratora
+## Panel administratora
 
 ![alt text](http://i.imgur.com/U07iy8R.gif "Panel admina")
 
 Z poziomu panelu administratora mamy dostęp do: 
 * sprawdzenia liczby aktualnie zalogowanych użytkowników
 * dodania nowego postu w aktualnościach
-* dodania nowej skrzyni z dowolną zawartością i procentowo ustalonymi szansami na wylosowanie (+ podgląd generowaniej skrzyni)
+* dodania nowej skrzyni z dowolną zawartością i procentowo ustalonymi szansami na wylosowanie (+ podgląd generowanej skrzyni)
 * dodania nowej gry do bazy danych
 
 ![alt text](http://i.imgur.com/rvh2Y7O.gif "Dodawanie nowej skrzyni")
